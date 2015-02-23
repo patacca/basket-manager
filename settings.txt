@@ -1,0 +1,9 @@
+Squadra: Chicago Bulls
+Stile: normale
+Difesa: zona
+Attacco: normale
+
+Squadra: Boston Celtics
+Stile: normale
+Difesa: mista
+Attacco: normale

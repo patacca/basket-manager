@@ -1,0 +1,2 @@
+[Compiling]
+g++ -o bm main.cpp match.cpp -lsqlite3

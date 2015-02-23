@@ -3,5 +3,7 @@ A basket manager game
 
 
 # Compiling
-g++ -o bm main.cpp match.cpp -lsqlite3
+To compile use 'make'
+To play use './bm'
 
+Enjoy!
